@@ -1,0 +1,28 @@
+---
+title: "ServicesTabLoes"
+author: "Bas"
+date: "April 24, 2019"
+output: html_document
+---
+
+## Services
+
+Academics often need very specific illustrations to clearly explain complex concepts with many interacting components or variables. Many of these academics pay large amounts of money for a good illustration that makes their paper/journal that much more readable.
+
+As a master student with a passion for illustrating/drawing in general, I found that academics around me often needed my services.
+
+Below are a couple of examples:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
